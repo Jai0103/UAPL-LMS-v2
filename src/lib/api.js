@@ -1,4 +1,4 @@
-const API_URL = "https://script.google.com/macros/s/AKfycbww2M-BdQX3GjqbaMeLCbs8sCBXHfgOauYl2sYOiWMUEIGSAbED6EFa_LrFgI0CVNZ2/exec";
+const API_URL = "https://script.google.com/a/macros/apolloglobalacademy.com/s/AKfycbw6ErvNllHLKnjcjYsvj8zjL-YVP_wU_05lT7Xsu61ruwPZB3hWMUnOw8TeKiMGpej2NA/exec";
 
 async function request(action, payload = {}) {
     const body = new URLSearchParams();
