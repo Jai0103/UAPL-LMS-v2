@@ -23,6 +23,7 @@ function defaultExpiryDate() {
 
 const emptyUser = {
     name: "",
+    email: "",
     username: "",
     password: "",
     role: "student",
